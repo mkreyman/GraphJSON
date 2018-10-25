@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GraphJSON.org
+title: GraphJSON
 ---
 
 {% include Home.md %}

@@ -6,4 +6,4 @@ kramdown:
   input: GFM
   auto_ids: false
 
-pygments: true
+highlighter: true
